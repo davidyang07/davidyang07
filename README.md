@@ -1,4 +1,4 @@
-## Hi! I'm David
+## David Yang
 
 computer science @ [university of waterloo](https://uwaterloo.ca)
 
