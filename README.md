@@ -3,7 +3,8 @@
 computer science @ [university of waterloo](https://uwaterloo.ca)
 
 currently:
-* swe @ manulife
+* inc @ faire
+* swe @ mercor
 
 Passionate about all things ml, infra, and quant. I'd love to connect — feel free to reach out!
 
