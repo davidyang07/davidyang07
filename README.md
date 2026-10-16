@@ -1,6 +1,6 @@
 ## Hi! I'm David
 
-cs @ [uwaterloo](https://uwaterloo.ca)
+computer science @ [university of waterloo](https://uwaterloo.ca)
 
 currently:
 * swe @ manulife
